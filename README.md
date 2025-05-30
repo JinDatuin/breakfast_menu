@@ -1,4 +1,3 @@
-﻿# breakfast_menu
-Module No.7 Laboratory
-Julius Zyrell D. Naron
-BSIT-3A
+# Module No.7 Laboratory
+## Julius Zyrell D. Naron
+## BSIT-3A
